@@ -1,6 +1,6 @@
 ### Project Overview
 
-This project is a simple e-commerce application that allows users to view a list of furniture products and add them to a shopping cart. It utilizes JavaScript to dynamically load product data from a JSON file, manage a shopping cart, and interact with local storage to persist cart items.
+This project is an e-commerce application that allows users to view a list of furniture products and add them to a shopping cart. It utilizes JavaScript to dynamically load product data from a JSON file, manage a shopping cart, and interact with local storage to persist cart items.
 
 ### Features and Functionality
 
